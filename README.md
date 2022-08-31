@@ -17,7 +17,7 @@
 
 <br />
 
-hi, i'm [yongbi](https:///), I am a react front-end engineer and am keen on visualization technology.
+hi, i'm [yongbi](https://yongbi.co/), I am a react front-end engineer and am keen on visualization technology.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
