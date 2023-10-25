@@ -1,17 +1,5 @@
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ysh199882.ysh199882)
 
@@ -22,8 +10,8 @@ hi, i'm [yongbi](https://yongbi.co/), I am a react front-end engineer and am kee
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://files.imgdb.cn/static/images/a6/b0/65388838c458853aef16a6b0.gif?n=uDNtAsrP&s=2cc2624d&t=65388854" width="500" height="320" />
-  
+
+<img src="https://pic.imgdb.cn/item/65388838c458853aef16a6b0.gif" alt="code.gif" width="500" height="320"  align="right">  
 
 
 
