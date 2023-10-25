@@ -22,7 +22,7 @@ hi, i'm [yongbi](https://yongbi.co/), I am a react front-end engineer and am kee
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://s2.loli.net/2023/10/25/sqFkKjuB8nDMdZC.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://files.imgdb.cn/static/images/a6/b0/65388838c458853aef16a6b0.gif?n=uDNtAsrP&s=2cc2624d&t=65388854" width="500" height="320" />
   
 
 
